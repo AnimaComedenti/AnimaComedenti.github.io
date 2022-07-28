@@ -1,0 +1,24 @@
+{
+  "name": "animacomedenti.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnimaComedenti/AnimaComedenti.github.io.git"
+  },
+  "author": "Julian Beitinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnimaComedenti/AnimaComedenti.github.io/issues"
+  },
+  "homepage": "https://github.com/AnimaComedenti/AnimaComedenti.github.io#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^7.0.1"
+  }
+}
