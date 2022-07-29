@@ -21,7 +21,5 @@
     "grunt-sass": "^3.1.0",
     "node-sass": "^7.0.1"
   },
-  "dependencies": {
-    "scss-tokenizer": "^0.4.2"
-  }
+  "dependencies": {}
 }
